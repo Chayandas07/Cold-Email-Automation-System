@@ -1,0 +1,36 @@
+# Google OAuth credentials and tokens
+credentials.json
+token.json
+client_secret*.json
+*.pem
+*.key
+
+# Environment variables
+.env
+.env.*
+
+# Contact data and generated campaign reports
+contacts.csv
+contacts.xlsx
+test_contacts.csv
+email_log_*.csv
+send_log*.csv
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
