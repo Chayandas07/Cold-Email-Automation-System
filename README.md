@@ -126,14 +126,6 @@ Review all settings before each run. Avoid sending repeated unsolicited messages
 
 These limitations should be addressed before using the project for unattended or production workflows.
 
-## Security Checklist
-
-- [ ] Remove OAuth credentials and tokens from the repository.
-- [ ] Remove real contact files, recipient addresses, and private send logs.
-- [ ] Clear notebook outputs that may contain sensitive information.
-- [ ] Review files staged for commit.
-- [ ] Check Git history for previously committed secrets.
-- [ ] Use test accounts you control when validating email sending.
 
 
 ## License
