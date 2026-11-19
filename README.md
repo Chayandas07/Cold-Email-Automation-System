@@ -126,9 +126,6 @@ Review all settings before each run. Avoid sending repeated unsolicited messages
 
 These limitations should be addressed before using the project for unattended or production workflows.
 
-
-
 ## License
 
 This project is distributed under the MIT License. See the `LICENSE` file for details.
-
